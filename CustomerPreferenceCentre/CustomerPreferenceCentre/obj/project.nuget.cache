@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FS15gcZ0zJcgEb+p4EkdTQTn6sDAJvqCuuzSw38OYkprh9dTHjdDF/KZ8Jj9xWTJUqgedUQfLqv0od2eQctAQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\CustomerPreferenceCentre.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.je-labs.com/nuget/Global/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.je-labs.com/nuget/Default/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

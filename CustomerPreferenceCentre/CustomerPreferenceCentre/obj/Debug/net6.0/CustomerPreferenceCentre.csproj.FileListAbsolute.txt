@@ -1,0 +1,15 @@
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\bin\Debug\net6.0\CustomerPreferenceCentre.exe
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\bin\Debug\net6.0\CustomerPreferenceCentre.deps.json
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\bin\Debug\net6.0\CustomerPreferenceCentre.runtimeconfig.json
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\bin\Debug\net6.0\CustomerPreferenceCentre.dll
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\bin\Debug\net6.0\CustomerPreferenceCentre.pdb
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.csproj.AssemblyReference.cache
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.AssemblyInfoInputs.cache
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.AssemblyInfo.cs
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.csproj.CoreCompileInputs.cache
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.dll
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\refint\CustomerPreferenceCentre.dll
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.pdb
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\CustomerPreferenceCentre.genruntimeconfig.cache
+C:\Users\taha.rafique\source\repos\CustomerPreferenceCentre\CustomerPreferenceCentre\obj\Debug\net6.0\ref\CustomerPreferenceCentre.dll

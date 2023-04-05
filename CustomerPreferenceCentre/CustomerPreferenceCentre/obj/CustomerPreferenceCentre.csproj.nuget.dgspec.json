@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\CustomerPreferenceCentre.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\CustomerPreferenceCentre.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\CustomerPreferenceCentre.csproj",
+        "projectName": "CustomerPreferenceCentre",
+        "projectPath": "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\CustomerPreferenceCentre.csproj",
+        "packagesPath": "C:\\Users\\taha.rafique\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taha.rafique\\source\\repos\\CustomerPreferenceCentre\\CustomerPreferenceCentre\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taha.rafique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.je-labs.com/nuget/Default/": {},
+          "http://packages.je-labs.com/nuget/Global/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.cd.je-labs.com/artifactory/api/nuget/v3/nuget-virtual": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
